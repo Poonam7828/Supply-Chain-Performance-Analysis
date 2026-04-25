@@ -1,5 +1,3 @@
-<img width="833" height="617" alt="Screenshot 2026-04-25 151819" src="https://github.com/user-attachments/assets/8d589c08-db65-47f9-8d82-e2ec66e579ed" />
-<img width="833" height="617" alt="Screenshot 2026-04-25 151819" src="https://github.com/user-attachments/assets/2ef8874c-aa13-4185-9be1-7b15a14fc6d2" />
 # 📦 Supply Chain Performance Analysis
 
 ---
