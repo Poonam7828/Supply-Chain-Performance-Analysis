@@ -114,6 +114,12 @@ The company is facing inconsistent delivery performance, leading to:
 ### 📌 Bottleneck Analysis
 ![Bottleneck](images/bottleneck.png)
 
+
+---
+
+### 📌 Root Cause Analysis
+![RootCause](images/rootcause.png)
+
 ---
 
 ### 📌 Time-Based Analysis
