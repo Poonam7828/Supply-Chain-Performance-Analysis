@@ -122,7 +122,8 @@ The company is facing inconsistent delivery performance, leading to:
 ---
 
 ### 📌 Root Cause Analysis
-<img width="1640" height="517" alt="Screenshot 2026-04-25 151922" src="https://github.com/user-attachments/assets/35152177-4c27-4f2b-a065-78e26055a2e0" />
+<img width="1609" height="483" alt="Screenshot 2026-04-25 152014" src="https://github.com/user-attachments/assets/8c1ad304-f9cb-4327-b338-a49d95c4021d" />
+
 
 
 ---
