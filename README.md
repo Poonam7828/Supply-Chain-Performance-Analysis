@@ -103,28 +103,33 @@ The company is facing inconsistent delivery performance, leading to:
 ---
 
 ### 📌 Delay Distribution
-![Delay Distribution](images/delay_distribution.png)
+<img width="873" height="641" alt="Screenshot 2026-04-25 151850" src="https://github.com/user-attachments/assets/5002020c-a89e-40bf-ae75-7b5776b376e9" />
+
 
 ---
 
 ### 📌 Profit vs Delay
-![Profit vs Delay](images/profit_vs_delay.png)
+<img width="885" height="639" alt="Screenshot 2026-04-25 151850" src="https://github.com/user-attachments/assets/c417619f-3acc-480b-83ab-9defbd18b003" />
+
 
 ---
 
 ### 📌 Bottleneck Analysis
-![Bottleneck](images/bottleneck.png)
+<img width="1640" height="517" alt="Screenshot 2026-04-25 151922" src="https://github.com/user-attachments/assets/114047b3-15b9-44f0-8778-18f87fbf7bc8" />
+
 
 
 ---
 
 ### 📌 Root Cause Analysis
-![RootCause](images/rootcause.png)
+<img width="1640" height="517" alt="Screenshot 2026-04-25 151922" src="https://github.com/user-attachments/assets/35152177-4c27-4f2b-a065-78e26055a2e0" />
+
 
 ---
 
 ### 📌 Time-Based Analysis
-![Time Analysis](images/time_analysis.png)
+<img width="1591" height="499" alt="Screenshot 2026-04-25 152030" src="https://github.com/user-attachments/assets/50158408-3fa9-4018-a47d-ecc786069165" />
+
 
 ---
 
